@@ -128,8 +128,8 @@
                             <td><?php echo $row['reci_age']; ?> </td>
                             <td><?php echo $row['reci_sex']; ?> </td>
                             <td><?php echo $row['reci_phno']; ?> </td>
-                            <td><a href="fix.php?reci_id=<?php echo $row['reci_id']; ?>"><i class="fas fa-edit"></i></a></td>
-                            <td><a href="delete.php?reci_id=<?php echo $row['reci_id']; ?>"><i class="fas fa-trash"></i></a></td>
+                            <td><a href="./fix.php?php echo $row['reci_id']; ?>"><i class="fas fa-edit"></i></a></td>
+                            <td><a href="./delete.php?php echo $row['reci_id']; ?>"><i class="fas fa-trash"></i></a></td>
                             </tr>
                             <?php
                                 $i++;
