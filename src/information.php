@@ -30,7 +30,7 @@ require('../config/connect.php');
                             <a class="nav-link active" aria-current="page" href="./index.php">Danh mục</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="./them.php">Thêm</a>
+                            <a class="nav-link" href="./add.php">Thêm</a>
                         </li>
                     </ul>
                 </div>
